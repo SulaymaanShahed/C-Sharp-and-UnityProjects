@@ -1,0 +1,7 @@
+C:\Users\sulay\source\repos\StudentDailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\sulay\source\repos\StudentDailyReport\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\sulay\source\repos\StudentDailyReport\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\sulay\source\repos\StudentDailyReport\DailyReport\obj\Debug\DailyReport.csproj.AssemblyReference.cache
+C:\Users\sulay\source\repos\StudentDailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\StudentDailyReport\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\sulay\source\repos\StudentDailyReport\DailyReport\obj\Debug\DailyReport.pdb

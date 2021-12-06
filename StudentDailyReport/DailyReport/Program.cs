@@ -43,26 +43,6 @@ namespace DailyReport
 
             Console.WriteLine("Thank you for your answers. An instructor will respond to this shortly. Have a great day!");
             Console.ReadLine();
-
-            int num1 = 4;
-            int num2 = 6;
-            int total = num1 + num2;
-            Console.WriteLine(total);
-
-            int num3 = 9;
-            int num4 = 3;
-            int difference = num3 - num4;
-            Console.WriteLine(difference);
-
-            int num5 = 7;
-            int num6 = 3;
-            int product = num5 * num6;
-            Console.WriteLine(product);
-
-            int num7 = 16;
-            int num8 = 8;
-            int quotient = num7 / num8;
-            Console.WriteLine(quotient);
         }
     }
 }
