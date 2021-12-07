@@ -63,6 +63,10 @@ namespace DailyReport
             int num8 = 8;
             int quotient = num7 / num8;
             Console.WriteLine(quotient);
+
+            string name = "Kellig";
+            int number = 10;
+            Console.WriteLine(name + number);
         }
     }
 }
