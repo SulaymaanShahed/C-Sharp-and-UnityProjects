@@ -14,8 +14,8 @@ namespace ApprovalProgram
             int yourAge = Convert.ToInt32(Console.ReadLine());
             Console.ReadLine();
 
-            Console.WriteLine("Have you ever had a DUI? Please answer Yes or No.");
-            string yourDui = Convert.ToString(Console.ReadLine());
+            Console.WriteLine("Have you ever had a DUI? Please answer True or False.");
+            bool yourDui = Convert.ToBoolean(Console.ReadLine());
             Console.ReadLine();
 
             Console.WriteLine("How many speeding tickets do you have?");
@@ -23,10 +23,10 @@ namespace ApprovalProgram
             Console.ReadLine();
 
             Console.WriteLine("Qualified?");
-            bool isQualified = (yourAge >= 15 && yourDui == "No" && spTicket < 3);
+            bool isQualified = (yourAge > 15  && yourDui == false && spTicket < 3);
             Console.WriteLine(isQualified);
             Console.ReadLine();
-            
+
         }
     }
 }
