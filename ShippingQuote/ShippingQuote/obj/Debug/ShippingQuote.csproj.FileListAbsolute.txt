@@ -5,3 +5,10 @@ C:\Users\sulay\source\repos\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.
 C:\Users\sulay\source\repos\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.CoreCompileInputs.cache
 C:\Users\sulay\source\repos\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.exe
 C:\Users\sulay\source\repos\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.pdb
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe.config
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.pdb
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.AssemblyReference.cache
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.exe
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.pdb

@@ -18,6 +18,7 @@ namespace ShippingQuote
             if (pkgWt > 50)
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
+                return;
             }
 
             Console.WriteLine("Enter package width: ");
@@ -34,6 +35,7 @@ namespace ShippingQuote
             if (pkgTotal > 50)
             {
                 Console.WriteLine("Package too big to be shipped via Package Express.");
+                return;
             }
             else
             {
