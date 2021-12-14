@@ -1,0 +1,7 @@
+C:\Users\sulay\source\repos\BooleanComparison\BooleanComparison\bin\Debug\BooleanComparison.exe.config
+C:\Users\sulay\source\repos\BooleanComparison\BooleanComparison\bin\Debug\BooleanComparison.exe
+C:\Users\sulay\source\repos\BooleanComparison\BooleanComparison\bin\Debug\BooleanComparison.pdb
+C:\Users\sulay\source\repos\BooleanComparison\BooleanComparison\obj\Debug\BooleanComparison.csproj.AssemblyReference.cache
+C:\Users\sulay\source\repos\BooleanComparison\BooleanComparison\obj\Debug\BooleanComparison.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\BooleanComparison\BooleanComparison\obj\Debug\BooleanComparison.exe
+C:\Users\sulay\source\repos\BooleanComparison\BooleanComparison\obj\Debug\BooleanComparison.pdb
