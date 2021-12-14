@@ -5,3 +5,10 @@ C:\Users\sulay\source\repos\BooleanComparison\BooleanComparison\obj\Debug\Boolea
 C:\Users\sulay\source\repos\BooleanComparison\BooleanComparison\obj\Debug\BooleanComparison.csproj.CoreCompileInputs.cache
 C:\Users\sulay\source\repos\BooleanComparison\BooleanComparison\obj\Debug\BooleanComparison.exe
 C:\Users\sulay\source\repos\BooleanComparison\BooleanComparison\obj\Debug\BooleanComparison.pdb
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\BooleanComparison\BooleanComparison\bin\Debug\BooleanComparison.exe.config
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\BooleanComparison\BooleanComparison\bin\Debug\BooleanComparison.exe
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\BooleanComparison\BooleanComparison\bin\Debug\BooleanComparison.pdb
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\BooleanComparison\BooleanComparison\obj\Debug\BooleanComparison.csproj.AssemblyReference.cache
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\BooleanComparison\BooleanComparison\obj\Debug\BooleanComparison.csproj.CoreCompileInputs.cache
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\BooleanComparison\BooleanComparison\obj\Debug\BooleanComparison.exe
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\BooleanComparison\BooleanComparison\obj\Debug\BooleanComparison.pdb

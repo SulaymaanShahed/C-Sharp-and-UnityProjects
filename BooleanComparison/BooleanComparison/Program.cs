@@ -46,6 +46,13 @@ namespace BooleanComparison
             }
             while (!yourGuess);
 
+            int s = 33;
+            while(s < 100)
+            {
+                Console.WriteLine(s);
+                s++;
+            }
+
             Console.Read();
         }
     }
