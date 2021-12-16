@@ -5,3 +5,10 @@ C:\Users\sulay\source\repos\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAs
 C:\Users\sulay\source\repos\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.CoreCompileInputs.cache
 C:\Users\sulay\source\repos\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.exe
 C:\Users\sulay\source\repos\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.pdb
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ArraysAssignment\ArraysAssignment\bin\Debug\ArraysAssignment.exe.config
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ArraysAssignment\ArraysAssignment\bin\Debug\ArraysAssignment.exe
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ArraysAssignment\ArraysAssignment\bin\Debug\ArraysAssignment.pdb
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.AssemblyReference.cache
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.exe
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.pdb
