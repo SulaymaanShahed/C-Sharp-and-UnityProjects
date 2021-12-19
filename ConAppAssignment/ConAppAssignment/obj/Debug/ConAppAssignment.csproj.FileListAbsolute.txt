@@ -5,3 +5,10 @@ C:\Users\sulay\source\repos\ConAppAssignment\ConAppAssignment\obj\Debug\ConAppAs
 C:\Users\sulay\source\repos\ConAppAssignment\ConAppAssignment\obj\Debug\ConAppAssignment.csproj.CoreCompileInputs.cache
 C:\Users\sulay\source\repos\ConAppAssignment\ConAppAssignment\obj\Debug\ConAppAssignment.exe
 C:\Users\sulay\source\repos\ConAppAssignment\ConAppAssignment\obj\Debug\ConAppAssignment.pdb
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ConAppAssignment\ConAppAssignment\bin\Debug\ConAppAssignment.exe.config
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ConAppAssignment\ConAppAssignment\bin\Debug\ConAppAssignment.exe
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ConAppAssignment\ConAppAssignment\bin\Debug\ConAppAssignment.pdb
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ConAppAssignment\ConAppAssignment\obj\Debug\ConAppAssignment.csproj.AssemblyReference.cache
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ConAppAssignment\ConAppAssignment\obj\Debug\ConAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ConAppAssignment\ConAppAssignment\obj\Debug\ConAppAssignment.exe
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\ConAppAssignment\ConAppAssignment\obj\Debug\ConAppAssignment.pdb
