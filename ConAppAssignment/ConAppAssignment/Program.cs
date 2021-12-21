@@ -33,7 +33,7 @@ namespace ConAppAssignment
             
             while (v < 10)
             {
-                Console.WriteLine("Value of v: {0}", i);
+                Console.WriteLine("Value of v: {0}", v);
                 v++;
             }
             //End Part 2
@@ -47,43 +47,77 @@ namespace ConAppAssignment
                 k++;
             }
 
-            int i = 0;
+            int aCore = 3;
 
-            for (int i = 0; i <= 10; i = i + 2)
+            for (int Core = 0; Core <= 10; Core = aCore + 2)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(Core);
             }
             //End Part 3
             
             //Begin Part 4
-            List<string> uniqueItems = new List<string>();
+            List<string> uniqueItems = new List<string>()
             { "Urn of Amen-Ra", "Dyanises Sword", "Pallades Diary", "Ring of Solomon", "Barbar Tea Set" };
             
             Console.WriteLine("Please input text to search in the list: ");
             string userItem = Console.ReadLine();
-            Console.WriteLine("You have ");
 
-            if (userItem == uniqueItems)
+            foreach (string uniqueItem in uniqueItems)
             {
-                Console.WriteLine(uniqueItems.IndexOf(uniqueItems));
-                break;
-            }
-            else
-            {
-                Console.WriteLine("Your choice is not in: " + uniqueItems.IndexOf(uniqueItem);
+
+                if  (userItem == uniqueItem)
+                {
+                    Console.WriteLine("Your choice: " + userItem + " is at " + uniqueItems.IndexOf(uniqueItem));
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Your choice is not in: " + uniqueItems.IndexOf(uniqueItem));
+                }
             }
             //End Part 4
 
             //Begin Part 5
-            List<string> cards = new List<string>();
-            { "Joker","King", "Queen", "Jack", "Joker",  "Ace"}
+            List<string> cards = new List<string>()
+            { "Joker","King", "Queen", "Jack", "Joker",  "Ace"};
+
+            Console.WriteLine("Pick a face card: ");
+            string yourCard = Console.ReadLine();
 
             foreach (string card in cards)
             {
-                Console.WriteLine(card);
+                if (yourCard == card)
+                {
+                    Console.WriteLine("Your choice: " + yourCard + " is at " + cards.IndexOf(card));
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Your choice is not in: " + cards.IndexOf(card));
+                }
             }
             //End Part 5
+
+            //Begin Part 6
+            List<string> mythicBeasts = new List<string>()
+            { "Manticore", "Dragon", "Kitsune", "Phoenix", "Dragon"};
+
+            List<string> repeatB new List<string>();
+
+            foreach (string beast in mythicBeasts)
+            {   
+                if  (repeatB.Contains(beast)
+                { 
+                    Console.WriteLine("This mythic beast has been repeated.");
+                }
+                else
+                {
+                    Console.WriteLine("This beast has not been repeated.");
+                }
+                repeatB.Add(beast);
+            }
+            Console.ReadLine();
         }
-        Console.ReadLine();
+        
     }
 }
