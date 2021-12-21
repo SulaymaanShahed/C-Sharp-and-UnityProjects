@@ -20,6 +20,7 @@ namespace ConAppAssignment
                 artPaints[p] += myPaints;
                 Console.WriteLine(artPaints[p]);
             }
+            Console.ReadLine();
             //Users input returned
             //End Part 1
 
@@ -29,32 +30,35 @@ namespace ConAppAssignment
             //   Console.WriteLine("Always true like infinitely true");
             //}
             
-            int v = 0;
+            //int v = 0;
             
-            while (v < 10)
-            {
-                Console.WriteLine("Value of v: {0}", v);
-                v++;
-            }
+            //while (v < 10)
+            //{
+            //    Console.WriteLine("Value of v: {0}", v);
+            //    v++;
+            //}
+            //Console.ReadLine();
             //End Part 2
 
             //Begin Part 3
-            int k = 0;
+            //int k = 0;
 
-            while (k < 10)
-            {
-                Console.WriteLine("Value of k: {0}", k);
-                k++;
-            }
+            //while (k < 10)
+            //{
+            //    Console.WriteLine("Value of k: {0}", k);
+            //    k++;
+            //}
+            //Console.ReadLine();
 
-            int aCore = 3;
+            //int core = 5;
 
-            for (int Core = 0; Core <= 10; Core = aCore + 2)
-            {
-                Console.WriteLine(Core);
-            }
+            //for (int core = 5; core <= 10; core += 2)
+            //{
+            //    Console.WriteLine(" This is your result: " + core);
+            //}
+            //Console.ReadLine();
             //End Part 3
-            
+
             //Begin Part 4
             List<string> uniqueItems = new List<string>()
             { "Urn of Amen-Ra", "Dyanises Sword", "Pallades Diary", "Ring of Solomon", "Barbar Tea Set" };
@@ -75,6 +79,7 @@ namespace ConAppAssignment
                     Console.WriteLine("Your choice is not in: " + uniqueItems.IndexOf(uniqueItem));
                 }
             }
+            Console.ReadLine();
             //End Part 4
 
             //Begin Part 5
@@ -96,17 +101,19 @@ namespace ConAppAssignment
                     Console.WriteLine("Your choice is not in: " + cards.IndexOf(card));
                 }
             }
+            Console.ReadLine();
             //End Part 5
 
             //Begin Part 6
             List<string> mythicBeasts = new List<string>()
             { "Manticore", "Dragon", "Kitsune", "Phoenix", "Dragon"};
 
-            List<string> repeatB new List<string>();
+            List<string> repeatB = new List<string>();
+
 
             foreach (string beast in mythicBeasts)
-            {   
-                if  (repeatB.Contains(beast)
+            {
+                if (repeatB.Contains(beast))
                 { 
                     Console.WriteLine("This mythic beast has been repeated.");
                 }
@@ -117,6 +124,7 @@ namespace ConAppAssignment
                 repeatB.Add(beast);
             }
             Console.ReadLine();
+            //End Part 6
         }
         
     }
