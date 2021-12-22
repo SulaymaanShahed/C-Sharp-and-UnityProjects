@@ -1,0 +1,7 @@
+C:\Users\sulay\source\repos\CallingMethods\CallingMethods\bin\Release\CallingMethods.exe.config
+C:\Users\sulay\source\repos\CallingMethods\CallingMethods\bin\Release\CallingMethods.exe
+C:\Users\sulay\source\repos\CallingMethods\CallingMethods\bin\Release\CallingMethods.pdb
+C:\Users\sulay\source\repos\CallingMethods\CallingMethods\obj\Release\CallingMethods.csproj.AssemblyReference.cache
+C:\Users\sulay\source\repos\CallingMethods\CallingMethods\obj\Release\CallingMethods.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\CallingMethods\CallingMethods\obj\Release\CallingMethods.exe
+C:\Users\sulay\source\repos\CallingMethods\CallingMethods\obj\Release\CallingMethods.pdb
