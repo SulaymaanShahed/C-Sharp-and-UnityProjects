@@ -1,0 +1,7 @@
+C:\Users\sulay\source\repos\SecondMethodAssgn\SecondMethodAssgn\bin\Debug\SecondMethodAssgn.exe.config
+C:\Users\sulay\source\repos\SecondMethodAssgn\SecondMethodAssgn\bin\Debug\SecondMethodAssgn.exe
+C:\Users\sulay\source\repos\SecondMethodAssgn\SecondMethodAssgn\bin\Debug\SecondMethodAssgn.pdb
+C:\Users\sulay\source\repos\SecondMethodAssgn\SecondMethodAssgn\obj\Debug\SecondMethodAssgn.csproj.AssemblyReference.cache
+C:\Users\sulay\source\repos\SecondMethodAssgn\SecondMethodAssgn\obj\Debug\SecondMethodAssgn.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\SecondMethodAssgn\SecondMethodAssgn\obj\Debug\SecondMethodAssgn.exe
+C:\Users\sulay\source\repos\SecondMethodAssgn\SecondMethodAssgn\obj\Debug\SecondMethodAssgn.pdb
