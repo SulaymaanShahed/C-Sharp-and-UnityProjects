@@ -5,3 +5,10 @@ C:\Users\sulay\source\repos\AICProgram\AnonymousIncomeComparisonProgram\obj\Debu
 C:\Users\sulay\source\repos\AICProgram\AnonymousIncomeComparisonProgram\obj\Debug\AnonymousIncomeComparisonProgram.csproj.CoreCompileInputs.cache
 C:\Users\sulay\source\repos\AICProgram\AnonymousIncomeComparisonProgram\obj\Debug\AnonymousIncomeComparisonProgram.exe
 C:\Users\sulay\source\repos\AICProgram\AnonymousIncomeComparisonProgram\obj\Debug\AnonymousIncomeComparisonProgram.pdb
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\AICProgram\AnonymousIncomeComparisonProgram\bin\Debug\AnonymousIncomeComparisonProgram.exe.config
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\AICProgram\AnonymousIncomeComparisonProgram\bin\Debug\AnonymousIncomeComparisonProgram.exe
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\AICProgram\AnonymousIncomeComparisonProgram\bin\Debug\AnonymousIncomeComparisonProgram.pdb
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\AICProgram\AnonymousIncomeComparisonProgram\obj\Debug\AnonymousIncomeComparisonProgram.csproj.AssemblyReference.cache
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\AICProgram\AnonymousIncomeComparisonProgram\obj\Debug\AnonymousIncomeComparisonProgram.csproj.CoreCompileInputs.cache
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\AICProgram\AnonymousIncomeComparisonProgram\obj\Debug\AnonymousIncomeComparisonProgram.exe
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\AICProgram\AnonymousIncomeComparisonProgram\obj\Debug\AnonymousIncomeComparisonProgram.pdb
