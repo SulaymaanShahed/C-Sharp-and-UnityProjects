@@ -1,0 +1,7 @@
+C:\Users\sulay\source\repos\ThirdMethodAssgn\ThirdMethodAssgn\bin\Debug\ThirdMethodAssgn.exe.config
+C:\Users\sulay\source\repos\ThirdMethodAssgn\ThirdMethodAssgn\bin\Debug\ThirdMethodAssgn.exe
+C:\Users\sulay\source\repos\ThirdMethodAssgn\ThirdMethodAssgn\bin\Debug\ThirdMethodAssgn.pdb
+C:\Users\sulay\source\repos\ThirdMethodAssgn\ThirdMethodAssgn\obj\Debug\ThirdMethodAssgn.csproj.AssemblyReference.cache
+C:\Users\sulay\source\repos\ThirdMethodAssgn\ThirdMethodAssgn\obj\Debug\ThirdMethodAssgn.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\ThirdMethodAssgn\ThirdMethodAssgn\obj\Debug\ThirdMethodAssgn.exe
+C:\Users\sulay\source\repos\ThirdMethodAssgn\ThirdMethodAssgn\obj\Debug\ThirdMethodAssgn.pdb
