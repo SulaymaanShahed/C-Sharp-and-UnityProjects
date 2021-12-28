@@ -8,10 +8,9 @@ namespace SecondMethodAssgn
 {
     class sMethod
     {
-        public int Method1(int userInt)
+        public int Method1(int userInt, int secInt = 5)
         {
-            int num1 = 4;
-            return num1 * userInt;
+            return secInt * userInt;
         }
 
     }
