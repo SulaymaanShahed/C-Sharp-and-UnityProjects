@@ -1,0 +1,7 @@
+C:\Users\sulay\source\repos\ClassAssgn\ClassAssgn\obj\Debug\ClassAssgn.csproj.AssemblyReference.cache
+C:\Users\sulay\source\repos\ClassAssgn\ClassAssgn\obj\Debug\ClassAssgn.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\ClassAssgn\ClassAssgn\bin\Debug\ClassAssgn.exe.config
+C:\Users\sulay\source\repos\ClassAssgn\ClassAssgn\bin\Debug\ClassAssgn.exe
+C:\Users\sulay\source\repos\ClassAssgn\ClassAssgn\bin\Debug\ClassAssgn.pdb
+C:\Users\sulay\source\repos\ClassAssgn\ClassAssgn\obj\Debug\ClassAssgn.exe
+C:\Users\sulay\source\repos\ClassAssgn\ClassAssgn\obj\Debug\ClassAssgn.pdb
