@@ -11,8 +11,8 @@ namespace MethodsAndObjects
         static void Main(string[] args)
         {
             Employee name = new Employee();
-            name.FirstName =
-            name.LastName =
+            name.FirstName = "Sample ";
+            name.LastName = " Student";
             name.SayName();
             Console.ReadLine();
         }
