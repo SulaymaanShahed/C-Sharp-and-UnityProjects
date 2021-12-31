@@ -12,7 +12,7 @@ namespace MethodsAndObjects
         {
             Employee name = new Employee();
             name.FirstName = "Sample ";
-            name.LastName = " Student";
+            name.LastName = "Student";
             name.SayName();
             Console.ReadLine();
         }
