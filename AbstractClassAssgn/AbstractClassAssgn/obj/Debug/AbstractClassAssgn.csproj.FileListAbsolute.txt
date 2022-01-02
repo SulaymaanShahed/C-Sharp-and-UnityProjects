@@ -5,3 +5,10 @@ C:\Users\sulay\source\repos\AbstractClassAssgn\AbstractClassAssgn\bin\Debug\Abst
 C:\Users\sulay\source\repos\AbstractClassAssgn\AbstractClassAssgn\bin\Debug\AbstractClassAssgn.pdb
 C:\Users\sulay\source\repos\AbstractClassAssgn\AbstractClassAssgn\obj\Debug\AbstractClassAssgn.exe
 C:\Users\sulay\source\repos\AbstractClassAssgn\AbstractClassAssgn\obj\Debug\AbstractClassAssgn.pdb
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\AbstractClassAssgn\AbstractClassAssgn\bin\Debug\AbstractClassAssgn.exe.config
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\AbstractClassAssgn\AbstractClassAssgn\bin\Debug\AbstractClassAssgn.exe
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\AbstractClassAssgn\AbstractClassAssgn\bin\Debug\AbstractClassAssgn.pdb
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\AbstractClassAssgn\AbstractClassAssgn\obj\Debug\AbstractClassAssgn.csproj.AssemblyReference.cache
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\AbstractClassAssgn\AbstractClassAssgn\obj\Debug\AbstractClassAssgn.csproj.CoreCompileInputs.cache
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\AbstractClassAssgn\AbstractClassAssgn\obj\Debug\AbstractClassAssgn.exe
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\AbstractClassAssgn\AbstractClassAssgn\obj\Debug\AbstractClassAssgn.pdb
