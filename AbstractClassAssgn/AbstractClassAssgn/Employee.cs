@@ -13,7 +13,10 @@ namespace AbstractClassAssgn
             Console.WriteLine("Full Name: " + FirstName + LastName);
         }
 
-        IQuittable obj1 = new Employee();
+        public void Quit()
+        {
+            Console.WriteLine("You quit!");
+        }
 
     }
 }

@@ -15,6 +15,10 @@ namespace AbstractClassAssgn
             name.LastName = "Student";
             name.SayName();
             Console.ReadLine();
+
+            IQuittable youEnd = new Employee();
+
+            youEnd.Quit();
         }
     }
 }
