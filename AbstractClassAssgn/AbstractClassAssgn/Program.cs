@@ -19,6 +19,7 @@ namespace AbstractClassAssgn
             IQuittable youEnd = new Employee();
 
             youEnd.Quit();
+            Console.ReadLine();
         }
     }
 }
