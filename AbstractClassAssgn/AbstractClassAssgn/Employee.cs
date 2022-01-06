@@ -17,6 +17,5 @@ namespace AbstractClassAssgn
         {
             Console.WriteLine("You quit!");
         }
-
     }
 }
