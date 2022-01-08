@@ -11,14 +11,22 @@ namespace Parameters
         public static void Main(string[] args)
         {
             Employee<string> employee = new Employee<string>();
-
-            List<string> Things = new List<string>
-            { "Tape", "Pencil", "Marker", "Folder" };
+            
+            employee.Things = new List<string> { "Bell", "Doll", "Locket", "Watch" };
 
             Employee<int> employeeInt = new Employee<int>();
+            
+            employeeInt.Things = new List<int> { 3, 8, 13, 27 };
 
-            List<int> Intthings = new List<int>
-            { 4, 6, 9, 15, 22, 37 };
+            foreach (string thing in employee.Things)
+            {
+                Console.WriteLine(thing);
+            }
+            foreach (int thing in employeeInt.Things)
+            {
+                Console.WriteLine(thing);
+            }
+            Console.ReadLine();
         }
     }
 }
