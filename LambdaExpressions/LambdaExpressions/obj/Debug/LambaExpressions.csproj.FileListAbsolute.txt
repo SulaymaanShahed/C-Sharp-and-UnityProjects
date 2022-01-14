@@ -1,7 +1,0 @@
-C:\Users\sulay\source\repos\LambaExpressions\LambaExpressions\obj\Debug\LambaExpressions.csproj.AssemblyReference.cache
-C:\Users\sulay\source\repos\LambaExpressions\LambaExpressions\obj\Debug\LambaExpressions.csproj.CoreCompileInputs.cache
-C:\Users\sulay\source\repos\LambaExpressions\LambaExpressions\bin\Debug\LambaExpressions.exe.config
-C:\Users\sulay\source\repos\LambaExpressions\LambaExpressions\bin\Debug\LambaExpressions.exe
-C:\Users\sulay\source\repos\LambaExpressions\LambaExpressions\bin\Debug\LambaExpressions.pdb
-C:\Users\sulay\source\repos\LambaExpressions\LambaExpressions\obj\Debug\LambaExpressions.exe
-C:\Users\sulay\source\repos\LambaExpressions\LambaExpressions\obj\Debug\LambaExpressions.pdb
