@@ -5,3 +5,10 @@ C:\Users\sulay\source\repos\LambdaExpressions\LambdaExpressions\obj\Debug\Lambda
 C:\Users\sulay\source\repos\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
 C:\Users\sulay\source\repos\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
 C:\Users\sulay\source\repos\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.AssemblyReference.cache
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+C:\Users\sulay\Documents\GitHub\C-Sharp-and-UnityProjects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
