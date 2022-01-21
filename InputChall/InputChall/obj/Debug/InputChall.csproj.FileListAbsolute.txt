@@ -1,0 +1,7 @@
+C:\Users\sulay\source\repos\InputChall\InputChall\bin\Debug\InputChall.exe.config
+C:\Users\sulay\source\repos\InputChall\InputChall\bin\Debug\InputChall.exe
+C:\Users\sulay\source\repos\InputChall\InputChall\bin\Debug\InputChall.pdb
+C:\Users\sulay\source\repos\InputChall\InputChall\obj\Debug\InputChall.csproj.AssemblyReference.cache
+C:\Users\sulay\source\repos\InputChall\InputChall\obj\Debug\InputChall.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\InputChall\InputChall\obj\Debug\InputChall.exe
+C:\Users\sulay\source\repos\InputChall\InputChall\obj\Debug\InputChall.pdb
