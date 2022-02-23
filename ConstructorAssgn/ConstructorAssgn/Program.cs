@@ -10,7 +10,12 @@ namespace ConstructorAssgn
     {
         static void Main(string[] args)
         {
-            const 
+            const int P = 115; /* Created constant variable for Price. */
+            Console.WriteLine($"My local constant = {P}");
+
+            var Q = 40; /* Created variable representing Quantity of items. */
+            Console.WriteLine($"Quantity of items = {Q}");
+            Console.ReadLine();
         }
     }
 }
